@@ -1,1 +1,3 @@
 # clone-netflix-webflix
+ATENÇÃO
+ISSO É SO A INTERFACE GRAFICA, NADA FUNCIONAL!
